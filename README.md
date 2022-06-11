@@ -10,3 +10,7 @@ Find the link here: https://www.youtube.com/watch?v=iR7Q_6quwSI
   ```sh
   cargo init --lib
   ```
+- run test
+  ```sh
+  cargo test -- --nocapture test
+  ```
